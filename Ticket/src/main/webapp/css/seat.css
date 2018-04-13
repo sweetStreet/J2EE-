@@ -1,0 +1,29 @@
+.booking-details{
+    display: inline-block;
+    float: right;
+    margin-right: 80px;
+}
+
+.booking-details h3 {margin: 5px 5px 0 0;font-size: 16px;}
+.booking-details p{line-height:26px; font-size:16px; color:#999}
+.booking-details p span{color:#666}
+
+
+#seat-map{
+    display: inline-block;
+    float: left;
+    margin-left: 80px;
+}
+
+.container{
+    width:450px;
+    border:1px solid #6C9C2C;
+    height:25px;
+}
+#bar{
+    background:#95CA0D;
+    float:left;
+    height:100%;
+    text-align:center;
+    line-height:150%;
+}

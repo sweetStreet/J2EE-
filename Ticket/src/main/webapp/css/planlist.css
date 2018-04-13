@@ -1,0 +1,22 @@
+
+#search{
+	display: inline-block;
+	width: 70%;
+	float: right;
+
+}
+
+#location{
+	display: inline-block;
+	width: 10%;
+	margin-left: 20%;
+}
+
+#planlist{
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 2%;
+}
+
+
+

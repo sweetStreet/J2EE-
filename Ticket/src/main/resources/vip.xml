@@ -1,0 +1,43 @@
+<vips>
+    <vip>
+        <level>0</level>
+        <money>0</money>
+        <discount>1</discount>
+    </vip>
+
+    <vip>
+        <level>1</level>
+        <money>100</money>
+        <discount>0.98</discount>
+    </vip>
+
+    <vip>
+        <level>2</level>
+        <money>500</money>
+        <discount>0.95</discount>
+    </vip>
+
+    <vip>
+        <level>3</level>
+        <money>1000</money>
+        <discount>0.9</discount>
+    </vip>
+
+    <vip>
+        <level>4</level>
+        <money>2000</money>
+        <discount>0.88</discount>
+    </vip>
+
+    <vip>
+        <level>5</level>
+        <money>4000</money>
+        <discount>0.85</discount>
+    </vip>
+
+    <vip>
+        <level>6</level>
+        <money>8000</money>
+        <discount>0.8</discount>
+    </vip>
+</vips>
